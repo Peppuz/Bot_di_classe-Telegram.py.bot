@@ -1,0 +1,36 @@
+Lunedi:
+ Filosofia
+ Ed.Fisica
+ Matematica
+ Storia
+ Scienze
+Martedi: 
+ Filosofia 
+ Fisica 
+ Matematica 
+ Storia 
+ Scienze
+Mercoledi: 
+ Scienze 
+ Italiano 
+ Religione 
+ Latino 
+ Matematica
+Giovedi: 
+ Arte 
+ Ed.Fisica 
+ Fisica 
+ Filosofia 
+ Inglese
+Venerdi: 
+ Inglese 
+ Matematica 
+ Scienze 
+ Italiano 
+ Italiano
+Sabato: 
+ Storia
+ Latino 
+ Latino 
+ Arte 
+ Inglese
